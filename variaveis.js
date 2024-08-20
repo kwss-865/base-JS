@@ -32,7 +32,7 @@ const novaOperacao = "a" + meuNumero
 console.log(novaOperacao)
 
 // string(Texto)
-const meuNome = "Piracanjuba"
+const meuNome = "Tufão"
 const frase = "Meu nome é "
 const issoNaoEUmNumero = "100000"
 
